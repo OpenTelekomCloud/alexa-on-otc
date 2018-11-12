@@ -1,0 +1,13 @@
+clouds:
+  otc-xxx:
+    region_name: eu-de
+    identity_api_version: 3
+    verify: False
+    auth:
+      username: 'user-username'
+      password: 'your-password' 
+      project_domain_name: 'OTC000000000010000xxxxx'
+      project_name: 'eu-de'
+      tenant_name: eu-de
+      user_domain_name: OTC000000000010000xxxxx
+      auth_url: 'https://iam.eu-de.otc.t-systems.com/v3'
