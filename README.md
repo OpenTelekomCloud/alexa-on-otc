@@ -1,9 +1,9 @@
 # alexa-on-otc
 PoC for how to hook up Amazon Alexa with Open Telekom Cloud
 
-.h1 Raise your voice - How to connect Amazon Alexa to OpenStack
+## Raise your voice - How to connect Amazon Alexa to OpenStack
 
-.h2 Prequisites
+### Prequisites
 
 You should be familiar with python and OpenStack and of course should have an account on a OpenStack based Cloud.
 Currently this Proof-of-Concept is fully hard-wired and does not allow any dynamic configuration of credentials! Your private credentials need to go to the cllouds.yml file and are used to connect in the backend to the cloud.
